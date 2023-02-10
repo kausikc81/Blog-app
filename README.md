@@ -1,4 +1,4 @@
-# This is a blog written in mysql and nodejs express framework
+# This is a blog written in mysql and nodejs express framework using Google authentication
 a simple blog using nodejs express and mysql
 
 ## Requirements :
